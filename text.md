@@ -1,3 +1,3 @@
 # Hello
 
-This is a Hi from auther.
+This is a hello from the auther.
